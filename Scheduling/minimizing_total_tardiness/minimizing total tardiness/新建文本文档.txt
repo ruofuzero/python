@@ -1,0 +1,12 @@
+chain_duplicate = []
+	# chain_copy2 = copy.deepcopy(chain_list)
+	# for i in range(len(chain_list)):
+	# 	m=0
+	# 	chain = chain_copy2.pop(0)
+	# 	for chain2 in chain_copy2:
+	# 		if set(chain).issubset(set(chain2)):
+	# 			m += 1
+	# 	if m == 0:
+	# 		chain_duplicate.append(chain)
+	# 		chain_copy2.append(chain)
+	# print (chain_duplicate)
